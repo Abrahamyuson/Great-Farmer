@@ -1,9 +1,9 @@
 [
     {
         "name": "Farm Worker",
-        "food": 2,
+        "food": 10,
         "greatPersonPoints": {
-            "Great Farmer": 3
+            "Great Farmer": 10
         },
         "color": [36, 163, 72]
     }
